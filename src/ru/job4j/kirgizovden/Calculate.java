@@ -1,4 +1,4 @@
-package kirgizovden;
+package ru.kirgizovden;
 
 public class Calculate {
    public static void main(String[] args) {
